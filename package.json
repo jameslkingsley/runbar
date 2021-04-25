@@ -1,0 +1,18 @@
+{
+    "productName": "Runbar",
+    "version": "1.0.0",
+    "main": "src/main.js",
+    "scripts": {
+        "start": "electron .",
+        "package": "electron-packager . --platform=darwin --arch=x64 --out=build --overwrite"
+    },
+    "dependencies": {
+        "electron": "^12.0.5",
+        "fix-path": "^3.0.0",
+        "electron-app-settings": "^1.2.2"
+    },
+    "devDependencies": {
+        "electron-packager": "^15.2.0",
+        "electron-reload": "^1.5.0"
+    }
+}
