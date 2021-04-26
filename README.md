@@ -1,6 +1,8 @@
 # Runbar
 A simple app for running your project's npm scripts in the menubar.
 
+![Screenshot](https://raw.githubusercontent.com/jameslkingsley/runbar/master/screenshot.png)
+
 ### How does it work?
 
 1. Choose the folder where you keep your projects
